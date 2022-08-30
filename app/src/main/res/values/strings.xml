@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="calendrier">Calendrier</string>
+    <string name="nom_de_l_v_nement">Nom de l\'évènement</string>
+    <string name="date_deb">Date de début</string>
+    <string name="date_fin">Date de fin</string>
+    <string name="heure_deb">Heure de début</string>
+    <string name="heure_fin">Heure de fin</string>
+    <string name="pause">PAUSE</string>
+    <string name="avant">Avant</string>
+    <string name="apr_s">Après</string>
+    <string name="Duree">Durée</string>
+    <string name="valider">Valider</string>
+    <string name="add_new_event">add_new_event</string>
+</resources>
