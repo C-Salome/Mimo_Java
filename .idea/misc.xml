@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.13069544364508393" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_new_event.xml" value="0.19892883300781236" />
+        <entry key="app/src/main/res/layout/activity_new_event.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.2574074074074074" />
+        <entry key="app/src/main/res/layout/fragment_calendrier_list.xml" value="0.234375" />
         <entry key="app/src/main/res/layout/new_event.xml" value="0.24479166666666666" />
         <entry key="app/src/main/res/layout/pause.xml" value="0.2942708333333333" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.2574074074074074" />
+        <entry key="template/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="template/src/main/res/layout/activity_main.xml" value="0.24461538461538462" />
       </map>
     </option>
   </component>

@@ -39,15 +39,15 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="83dp" />
 
+
+
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/newEvent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:contentDescription="@string/add_new_event"
         app:srcCompat="@android:drawable/ic_input_add"
-        tools:layout_editor_absoluteX="177dp"
-        tools:layout_editor_absoluteY="637dp"
-        tools:ignore="MissingConstraints"
-        android:contentDescription="@string/add_new_event" />
+        tools:ignore="MissingConstraints" />
 
 </LinearLayout>

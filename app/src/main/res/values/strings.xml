@@ -12,4 +12,11 @@
     <string name="Duree">Durée</string>
     <string name="valider">Valider</string>
     <string name="add_new_event">add_new_event</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">jeudi</string>
+    <string name="friday">vendredi</string>
 </resources>
